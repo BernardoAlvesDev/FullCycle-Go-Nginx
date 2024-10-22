@@ -12,6 +12,7 @@ services:
 
   node-app:
     build: ./node-app
+    entrypoint: dockerize -wait tcp://mysql-db:3306 -timeout 20s docker-entrypoint.sh
     volumes:
       - ./node-app:/app
       - /app/node_modules
