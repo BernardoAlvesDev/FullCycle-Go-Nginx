@@ -62,5 +62,5 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 🎉 Divirta-se!
 Este desafio foi desenvolvido para exercitar suas habilidades com Go e Docker. Boa sorte e aproveite a jornada!
 
-Feito com ❤️ por `Bernardo Alves`
+Feito com ❤️ por `Bernardo Alves`.
 
