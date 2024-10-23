@@ -1,0 +1,14 @@
+{
+  "name": "node-app",
+  "version": "1.0.0",
+  "description": "Node.js app with MySQL and Nginx proxy",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.1",
+    "mysql-client": "^0.3.0",
+    "mysql2": "^3.11.3"
+  }
+}
